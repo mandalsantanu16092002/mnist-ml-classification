@@ -26,6 +26,10 @@ MNIST handwritten digit dataset (28×28 grayscale images).
 The project demonstrates progressive accuracy improvement by applying
 more advanced machine learning techniques.
 
+## Baseline Model
+The baseline implementation uses a Decision Tree classifier on the MNIST dataset
+and achieves approximately 90% accuracy.
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
